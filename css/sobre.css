@@ -1,0 +1,19 @@
+#landing-page{
+	font-family: sans-serif;
+}
+
+.principal h1{
+	color: #3d3d3d;
+	background-color: #e1edf2;
+}
+
+.subtitle h2{
+	border-bottom: 2px solid black;
+}
+
+.principal figure, .subtitle figure{
+	align-items: center;
+	text-align: center;
+	border: 1px solid lightgrey;
+	background-color: whitesmoke;
+}
